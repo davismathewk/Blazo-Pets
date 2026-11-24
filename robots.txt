@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://blazopets.netlify.app/sitemap.xml
